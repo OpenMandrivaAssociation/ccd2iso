@@ -11,6 +11,7 @@ License: GPL
 Group: Archiving/Cd burning
 # Not yet real page
 Url: http://sourceforge.net/projects/ccd2iso/
+BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 CloneCD image to ISO image file converter
