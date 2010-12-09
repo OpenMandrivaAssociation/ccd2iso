@@ -1,6 +1,6 @@
 %define name ccd2iso
 %define version 0.3
-%define release %mkrel 4
+%define release %mkrel 5
 
 Summary: CloneCD image to ISO image file converter
 Name: %{name}
