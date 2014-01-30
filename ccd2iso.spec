@@ -15,7 +15,7 @@ CloneCD is an image to ISO image file converter.
 
 %build
 aclocal-1.9
-automake-1.9
+automake-1.9 --add-missing
 autoheader
 autoconf
 %configure
