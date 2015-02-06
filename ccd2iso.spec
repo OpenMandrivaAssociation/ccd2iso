@@ -1,7 +1,7 @@
 Summary: CloneCD image to ISO image file converter
 Name:    ccd2iso
 Version: 0.3
-Release: 6
+Release: 7
 Source0: http://ovh.dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.tar.bz2
 License: GPL
 Group:   Archiving/Cd burning
