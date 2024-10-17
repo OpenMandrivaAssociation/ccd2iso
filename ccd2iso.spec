@@ -5,7 +5,7 @@ Release: 7
 Source0: http://ovh.dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.tar.bz2
 License: GPL
 Group:   Archiving/Cd burning
-Url:     http://sourceforge.net/projects/ccd2iso/
+Url:     https://sourceforge.net/projects/ccd2iso/
 
 %description
 CloneCD is an image to ISO image file converter.
