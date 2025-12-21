@@ -7,6 +7,11 @@ License: GPL
 Group:   Archiving/Cd burning
 Url:     https://sourceforge.net/projects/ccd2iso/
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 CloneCD is an image to ISO image file converter.
 
